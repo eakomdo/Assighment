@@ -1,4 +1,5 @@
 #A program that compares the age of two people
+#Assignment 6
 
 Emmanuel = 300
 Eben = 30
