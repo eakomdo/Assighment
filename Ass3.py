@@ -1,3 +1,6 @@
+#A simple Python program to demonstrate variable types and arithmetic operations
+#Assignment 3
+
 x = 5 
 y = 2.5
 
