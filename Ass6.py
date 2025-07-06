@@ -1,9 +1,11 @@
 #A program that compares the age of two people
 
-Emmanuel = 30
-Ebenezer = 30
+Emmanuel = 300
+Eben = 30
 
-if Emmanuel > Ebenezer:
-    print("Emmanuel is older than Ebenezer.")
+if Emmanuel > Eben:
+    print("Emmanuel is older than Eben.")
+elif Emmanuel < Eben:
+    print("Eben is older than Emmanuel.")
 else:
-    print({Emmanuel == Ebenezer})
+    print({Emmanuel == Eben})
