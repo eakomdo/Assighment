@@ -1,2 +1,2 @@
-# Assighment
+# Assignment
 A simple python Assignment
